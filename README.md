@@ -1,5 +1,12 @@
-# netcomms1 documentation
+# What is this?
 
-Purpose:
+An open-source project in development.
 
-This document outlines a basic network configuration.
+# What is the purpose?
+
+This is a learning project for web application development.
+
+# What is the topic or focus?
+
+The topic or focus will be emergent over time.
+
